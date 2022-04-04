@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+}
+
+.studForm{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.studForm input{
+  padding: 10px;
+}
+
+.lbl{
+  margin-top: 30px;
+  margin-bottom: 5px;
+}
+.link{
+  color: #ebeef2;
+  text-decoration: none;
+  font-size: 1rem;
+}
+.btn{
+  width: 150px;
+  height:48px;
+  margin-top: 50px;
+
+}
+
+.dept{
+  width: 150px;
+  height:48px;
+  margin-top: 20px;
+}
+
+.admn{
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+}
+button, input, optgroup, select, textarea {
+  margin: 20px;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  border-radius: 0.25rem;
+}
+
+.btn{
+  padding: 5px;
+  margin: 5px;
+}

@@ -1,0 +1,53 @@
+body{
+  background:rgba(0,0,0,0.7) url(C:\Users\Yashu\Desktop\project\client\my-app\src\img1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+
+  background-blend-mode: darken;
+
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+label{
+  text-transform: capitalize;
+  color: rgb(234, 236, 238);
+  text-shadow: 2px 2px 2px black;
+  font-weight: 700;
+  font-size: 1.5em;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.dept{
+  background: rgb(46, 48, 46);
+  color: whitesmoke;
+  border-radius: 20px;
+  transition:transform 0.3s ease;
+  width: 200px;
+  height: 48px;
+  margin-top: 29px;
+  font-size: 1rem;
+  
+}
+.btn-primary {
+  color: #fff;
+  background-color: #2e9cb2;
+  border-color: #0d6efd;
+}
+.nav-link{
+  font-size: 1rem;
+}
+.foter{
+  color: #fff;
+}
